@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Formação: 3º ano de Engenharia Informática e Comunicações<br><br>Experiência: Estagiário e desenvolvedor de software na Multitel<br><br>Stack principal: Angular (componentes standalone), Laravel (Jetstream, Sanctum, Laratrust), Node.js, Tailwind CSS<br>Banco de dados: MySQL, MongoDB Atlas<br><br>Interesse em:<br><br>Projetos de IoT e Smart Cities<br><br>Redes LoRaWAN, 4G LTE e sistemas de rastreio<br><br>Soluções com automação agrícola e sistemas inteligentes<br><br> Projetos práticos:<br><br>Plataforma agrícola inteligente com sensores e gateways LoRaWAN<br><br>Fundo financeiro para colaboradores (Laravel + Jetstream)<br><br>API To-Do List com Swagger e testes<br><br>Objetivo de carreira: Atuar em projetos de impacto nos setores de banca digital ou oil & gas (ex: TotalEnergies, Standard Bank, Chevron)</p>
+<p align="left">Formação: 3º ano de Engenharia Informática e Comunicações<br><br>Experiência: Estagiário e desenvolvedor de software na Multitel<br><br>Stack principal: Angular (componentes standalone), Laravel (Jetstream, Sanctum, Laratrust), Node.js, Tailwind CSS<br>Banco de dados: MySQL, MongoDB Atlas<br><br>Interesse em:<br><br>Projetos de IoT e Smart Cities<br><br>Redes LoRaWAN, 4G LTE e sistemas de rastreio<br><br>Soluções com automação agrícola e sistemas inteligentes<br><br> Projetos práticos:<br><br>Plataforma agrícola inteligente com sensores e gateways LoRaWAN<br><br>Fundo financeiro para colaboradores (Laravel + Jetstream)<br><br>API To-Do List com Swagger e testes<br><br>Objetivo de carreira: Atuar em projetos de impacto nos setores de banca digital ou oil & gas </p>
 
 ###
 
@@ -41,4 +41,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Proverasamuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Proverasamuel&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-###
